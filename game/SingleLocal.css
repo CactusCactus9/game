@@ -1,0 +1,9 @@
+.SingleLocal-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    border-color: aqua;
+    /* background-color: linear-gradient(110deg, #2f2e47 50%, #535379 50%); */
+}
